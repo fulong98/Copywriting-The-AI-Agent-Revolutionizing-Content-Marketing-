@@ -39,8 +39,8 @@ pip install -qU 'langgraph>=0.3.21' 'langchain-google-genai>=2.1.2' 'langgraph-p
 ## 🔧 Configuration
 You'll need to set up the following API keys:
 
-**GOOGLE_API_KEY**: For accessing Google's Gemini models
-**TAVILY_API_KEY**: For market research functionality
+- **GOOGLE_API_KEY**: For accessing Google's Gemini models
+- **TAVILY_API_KEY**: For market research functionality
 
 
 ## 👥 Contributors
