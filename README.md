@@ -22,6 +22,9 @@ The Copywriting+ agent uses a modular architecture built on LangGraph:
 4. **Evaluator**: Scores the generated copies on multiple dimensions
 5. **Formatter**: Presents results in a comprehensive, easy-to-review format
 
+![image](img/ai-agent.drawio.png)
+
+
 ## 🧩 Technical Architecture
 
 The system is built using:
@@ -42,6 +45,11 @@ You'll need to set up the following API keys:
 - **GOOGLE_API_KEY**: For accessing Google's Gemini models
 - **TAVILY_API_KEY**: For market research functionality
 
+## Result
+![image](img/result.png)
+![image](img/score_total.png)
+![image](img/score_creative.png)
+![image](img/score_business.png)
 
 ## 👥 Contributors
 
