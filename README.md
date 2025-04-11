@@ -49,5 +49,5 @@ You'll need to set up the following API keys:
 
 ## 🙏 Acknowledgements
 
-Google Gen AI Intensive Capstone program
-The LangChain and LangGraph teams for their excellent frameworks
+- Google Gen AI Intensive Capstone program
+- The LangChain and LangGraph teams for their excellent frameworks
